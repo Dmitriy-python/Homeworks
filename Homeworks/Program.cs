@@ -2,15 +2,16 @@
 
 
 // Задача с парсером валют и энумератором
+
 // Main(CurrencyType.USD);
 // void Main(CurrencyType type)
 // {
-//         // Загрузка HTML-документа
-//         var url = "https://www.rbc.ru/quote/ticker/72413"; // Укажите URL
+//         
+//         var url = "https://www.rbc.ru/quote/ticker/72413"; 
 //         HtmlWeb web = new HtmlWeb();
 //         var doc = web.Load(url);
-//
-//         // Пример: получение всех заголовков h1
+//         
+//            
 //         if (doc.DocumentNode != null)
 //         {
 //             switch (type)
@@ -35,6 +36,7 @@
 //             }
 //         }
 // }
+
 
 //  рекурсия фибоначи
 int Fibonacci(int x)
