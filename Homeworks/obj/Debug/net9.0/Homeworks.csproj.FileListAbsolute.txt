@@ -15,3 +15,4 @@ C:\Users\Дмитрий\RiderProjects\Homeworks\Homeworks\obj\Debug\net9.0\refin
 C:\Users\Дмитрий\RiderProjects\Homeworks\Homeworks\obj\Debug\net9.0\Homeworks.pdb
 C:\Users\Дмитрий\RiderProjects\Homeworks\Homeworks\obj\Debug\net9.0\Homeworks.genruntimeconfig.cache
 C:\Users\Дмитрий\RiderProjects\Homeworks\Homeworks\obj\Debug\net9.0\ref\Homeworks.dll
+C:\Users\Дмитрий\RiderProjects\Homeworks\Homeworks\obj\Debug\net9.0\Homeworks.sourcelink.json
