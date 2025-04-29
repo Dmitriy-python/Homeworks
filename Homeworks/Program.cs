@@ -1,4 +1,5 @@
-﻿using HtmlAgilityPack;
+﻿using Homeworks;
+using HtmlAgilityPack;
 
 
 // Задача с парсером валют и энумератором
@@ -8,7 +9,7 @@
 // {
 //         
 //         var url = "https://www.rbc.ru/quote/ticker/72413";
-//         
+//     
 //         var url2 = "https://www.rbc.ru/quote/ticker/72383";
 //         HtmlWeb web = new HtmlWeb();
 //         var doc = web.Load(url);
@@ -58,5 +59,29 @@
 //         GBP,
 //         JPY
 // }
+
+// Задача классы (автобаза)
+
+// var dd = new Dispatcher("Dmitriy");
+// var cc = new Reys(11,"Krd", "Moscov", 30,10000);
+// var a=new Car("Jeep", "Kamaz", 250);
+// var v=new Driver("John");
+// dd.give_car_to_reys(cc,a);
+// // dd.BlockDriver(v);
+// dd.give_reys(v,cc);
+// Console.WriteLine(v.Reys.Number);
+// v.MarkAsCompleted();
+
+// Задача классы (ЖДстанция)
+
+// var jd = new Station("KRdvokzal");
+// var poezd = new Train(11,"Krd", "12:30","03.05", 1000);
+// var dima = new Passanger("Dmitriy");
+// jd.AddTrain(poezd);
+// dima.Zayavka(jd);
+
+
+
+
 
 
